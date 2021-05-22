@@ -1,2 +1,3 @@
 # WinHidDeviceControl
-Controlling Hid Touch frame is connect. Touch frame connected with relay. If something wrong Arduino make unplug and plug
+Controlling Hid Touch frame connection. 
+Touch frame connected with relay. If something wrong, Arduino can make unplug and plug touch frame.
