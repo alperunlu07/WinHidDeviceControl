@@ -14,7 +14,7 @@ namespace ReadDeviceManager
     {
 
         static private HidDevice[] _deviceList;
-        static private HidDevice _selectedDevice;
+        //static private HidDevice _selectedDevice;
         public delegate void ReadHandlerDelegate(HidReport report);
         private static List<string> devList = new List<string>();
         private static string searchDevice = "touch";
@@ -102,18 +102,6 @@ namespace ReadDeviceManager
 
         }
 
-        //private static void sPOrt_DataReceived(object sender,SerialDataReceivedEventArgs e)
-        //{
-        //    try
-        //    {
-
-        //    }
-        //    catch (IOException e)
-        //    {
-
-        //        throw;
-        //    }
-        //}
 
 
         private static void ReadConfiguration()
