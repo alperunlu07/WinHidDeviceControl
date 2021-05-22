@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadDeviceManager", "ReadDeviceManager\ReadDeviceManager.csproj", "{2DAE2470-8226-4AD2-A231-8549E20B56AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DAE2470-8226-4AD2-A231-8549E20B56AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DAE2470-8226-4AD2-A231-8549E20B56AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DAE2470-8226-4AD2-A231-8549E20B56AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DAE2470-8226-4AD2-A231-8549E20B56AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2521449-19A9-44DE-9103-93BCBDBFDA99}
+	EndGlobalSection
+EndGlobal

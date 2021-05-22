@@ -1,0 +1,11 @@
+D:\vsProjects\ReadDeviceManager\ReadDeviceManager\bin\Debug\ReadDeviceManager.exe.config
+D:\vsProjects\ReadDeviceManager\ReadDeviceManager\bin\Debug\ReadDeviceManager.exe
+D:\vsProjects\ReadDeviceManager\ReadDeviceManager\bin\Debug\ReadDeviceManager.pdb
+D:\vsProjects\ReadDeviceManager\ReadDeviceManager\bin\Debug\HidLibrary.dll
+D:\vsProjects\ReadDeviceManager\ReadDeviceManager\bin\Debug\Theraot.Core.dll
+D:\vsProjects\ReadDeviceManager\ReadDeviceManager\bin\Debug\HidLibrary.pdb
+D:\vsProjects\ReadDeviceManager\ReadDeviceManager\obj\Debug\ReadDeviceManager.csprojAssemblyReference.cache
+D:\vsProjects\ReadDeviceManager\ReadDeviceManager\obj\Debug\ReadDeviceManager.csproj.CoreCompileInputs.cache
+D:\vsProjects\ReadDeviceManager\ReadDeviceManager\obj\Debug\ReadDeviceManager.csproj.CopyComplete
+D:\vsProjects\ReadDeviceManager\ReadDeviceManager\obj\Debug\ReadDeviceManager.exe
+D:\vsProjects\ReadDeviceManager\ReadDeviceManager\obj\Debug\ReadDeviceManager.pdb
